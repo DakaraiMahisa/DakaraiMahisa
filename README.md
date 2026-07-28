@@ -210,7 +210,7 @@ I'm continuously building enterprise applications, backend services and AI-power
 
 ## 📫 Connect
 
-🌐 Portfolio: your-portfolio-url
+🌐 Portfolio: https://dakaraimahisa.github.io/portfolio/
 
 📧 Email: dakaraimahisa02@gmail.com
 
