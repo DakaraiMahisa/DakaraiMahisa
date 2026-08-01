@@ -6,9 +6,9 @@
 
 Building scalable backend systems with Java, Spring Boot, React and modern software engineering practices.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dakaraimahisa.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-DakaraiMahisa-181717?style=for-the-badge&logo=github)](https://github.com/DakaraiMahisa)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-professional-email)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakaraimahisa02@gmail.com)
 
 </div>
 
